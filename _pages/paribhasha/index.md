@@ -11,5 +11,5 @@ quoting pramanas at each step.
 
 Articles in this series:
 
-- [introduction](001-intro)
+- [introduction](./001-intro)
 
