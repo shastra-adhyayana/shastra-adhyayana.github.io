@@ -1,8 +1,11 @@
 # main links links
 main:
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Paribhasha"
+    url: /paribhasha
 
+#  - title: "Blog Posts"
+#    url: /year-archive/
+#
 #  - title: "Publications"
 #    url: /publications/
 #
