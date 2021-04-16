@@ -1,5 +1,5 @@
 ---
-permalink: /paribhasha/001-intro
+permalink: /paribhasha/002-pratyaksha
 title: "vedanta paribhasha"
 excerpt: "002 - Pratyaksha"
 author_profile: false
