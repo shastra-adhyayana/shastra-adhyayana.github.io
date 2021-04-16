@@ -86,7 +86,7 @@ Vedanta accepts six valid means of knowledge, i.e. pramana. They are:
 
 The author first deals with direct perception -- pratyaksha pramana.
 
-[Next. 002 - Pratyaksha](002-pratyaksha)
+[Next. 002 - Pratyaksha](/paribhasha/002-pratyaksha)
 
 
 

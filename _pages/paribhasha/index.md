@@ -11,5 +11,6 @@ quoting pramanas at each step.
 
 Articles in this series:
 
-- [introduction](001-intro)
+- [Part 001 - introduction](/paribhasha/001-intro)
+- [Part 002 - pratyaksha pramana](/paribhasha/002-pratyaksha)
 

@@ -7,7 +7,7 @@ author_profile: false
 
 # Pratyaksha
 
-In the [previous](001-intro) section, we described pramaa (knowledge). 
+In the [previous](/paribhasha/001-intro) section, we described pramaa (knowledge). 
 We now deal with the first means of knowledge (pramana), 
 which is pratyaksha pramanam.
 
